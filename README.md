@@ -1,2 +1,0 @@
-# stranded
-Survival game
