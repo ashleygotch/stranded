@@ -1,5 +1,8 @@
-/Logs
-/obj
-/Packages
-/Library
-/Temp
+stranded/.vscode
+stranded/obj
+stranded/Packages
+stranded/Library
+stranded/Temp
+stranded/ProjectSettings
+stranded/Logs
+stranded/UserSettings
